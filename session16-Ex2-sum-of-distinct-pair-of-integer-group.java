@@ -9,7 +9,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        //Session 16 Ex 16.1
+        //Session 16 Ex 16.2
         //find the sum of distinct number pairs in a group of integers
 
         int numbersArray[] = {100, 4, 2, 8, 30, 10, 11, 31, 30, 30, 30, 4};
