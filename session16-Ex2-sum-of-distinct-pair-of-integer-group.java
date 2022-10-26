@@ -56,7 +56,6 @@ public class Main
     {
         //need to add error handling / exception if array is not sorted
 
-        //loop through array
         int NoOfRepeatsOfNumber = 1;
         int NoOfPairsOfNumber;
         int sumOfDistinctPairs = 0;
